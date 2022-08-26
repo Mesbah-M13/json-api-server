@@ -1,0 +1,57 @@
+{
+  "result": [
+    {
+      "_id": "63083a9f3aec3676266b2ee9",
+      "text": "Learn Modern ES6- JavaScript",
+      "completed": false,
+      "color": "yellow",
+      "updatedAt": "2022-08-26T10:41:49.455Z"
+    },
+    {
+      "_id": "63083ac83aec3676266b2eea",
+      "text": "Learn React JS",
+      "completed": true,
+      "color": "red",
+      "updatedAt": "2022-08-26T08:39:45.965Z"
+    },
+    {
+      "_id": "63083b7f3aec3676266b2eed",
+      "text": "Learn Redux",
+      "completed": true,
+      "color": "green",
+      "updatedAt": "2022-08-26T08:21:56.923Z"
+    },
+    {
+      "_id": "63083b8c3aec3676266b2eee",
+      "text": "ggg",
+      "completed": true,
+      "color": "yellow",
+      "updatedAt": "2022-08-26T08:22:04.300Z"
+    },
+    {
+      "_id": "63083bb33aec3676266b2ef0",
+      "text": "Learn Redux Toolkit",
+      "completed": true,
+      "updatedAt": "2022-08-26T08:39:39.234Z"
+    },
+    {
+      "_id": "63084fafa6781985b61c881a",
+      "text": "Data Structure",
+      "completed": true,
+      "createdAt": "2022-08-26T04:44:31.310Z",
+      "updatedAt": "2022-08-26T08:22:11.659Z",
+      "__v": 0
+    },
+
+    {
+      "_id": "6308874b4641d83b1fe3dd13",
+      "text": "rrrrrrr",
+      "completed": true,
+      "createdAt": "2022-08-26T08:41:47.635Z",
+      "updatedAt": "2022-08-26T08:41:54.270Z",
+      "__v": 0,
+      "color": "green"
+    }
+  ],
+  "message": "Success"
+}
