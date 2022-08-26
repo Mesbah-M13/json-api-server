@@ -26,9 +26,9 @@
   {
     "_id": "63083bb33aec3676266b2ef0",
     "text": "Learn Redux Toolkit",
-    "completed": true
+    "completed": true,
+    "color": "green"
   },
-
   {
     "_id": "6308874b4641d83b1fe3dd13",
     "text": "rrrrrrr",
