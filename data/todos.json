@@ -1,38 +1,32 @@
 [
   {
-    "_id": "63083a9f3aec3676266b2ee9",
-    "text": "Learn Modern ES6- JavaScript",
-    "completed": true,
-    "color": "yellow"
+      "_id": 1,
+      "text": "Learn Vanilla JavaScript",
+      "completed": true,
+      "color": "green"
   },
   {
-    "_id": "63083ac83aec3676266b2eea",
-    "text": "Learn React JS",
-    "completed": true,
-    "color": "red"
+      "_id": 2,
+      "text": "Learn Modern ES6+ JavaScript",
+      "completed": false,
+      "color": "red"
   },
   {
-    "_id": "63083b7f3aec3676266b2eed",
-    "text": "Learn Redux",
-    "completed": true,
-    "color": "green"
+      "_id": 3,
+      "text": "Learn React JS",
+      "completed": true,
+      "color": "yellow"
   },
   {
-    "_id": "63083b8c3aec3676266b2eee",
-    "text": "ggg",
-    "completed": true,
-    "color": "yellow"
+      "text": "Learn Redux Basics",
+      "completed": false,
+      "_id": 4,
+      "color": "green"
   },
   {
-    "_id": "63083bb33aec3676266b2ef0",
-    "text": "Learn Redux Toolkit",
-    "completed": true,
-    "color": "green"
-  },
-  {
-    "_id": "6308874b4641d83b1fe3dd13",
-    "text": "rrrrrrr",
-    "completed": true,
-    "color": "green"
+      "text": "Learn Redux fundamentals test",
+      "completed": false,
+      "_id": 5,
+      "color": "red"
   }
 ]
