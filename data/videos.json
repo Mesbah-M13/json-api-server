@@ -143,7 +143,7 @@
     "date": "Jun 30, 2022",
     "duration": "9:04",
     "views": "43k ",
-    "link": "https://www.youtube.com/embed/-G9c4CMMUKc",
+    "link": "https://www.youtube.com/embed/-G9c4CMMUKc&t=1s",
     "thumbnail": "https://img.youtube.com/vi/-G9c4CMMUKc/mqdefault.jpg",
     "tags": ["javascript", "html"],
     "likes": 0,
@@ -160,7 +160,7 @@
     "views": "2500k ",
     "link": "https://www.youtube.com/embed/lsMQRaeKNDk",
     "thumbnail": "https://i.ytimg.com/vi/lsMQRaeKNDk/maxresdefault.jpg",
-    "tags": ["rest api","javascript"],
+    "tags": ["rest api","tips"],
     "likes": 0,
     "unlikes": 0
   },
@@ -190,7 +190,7 @@
     "views": "4.8k",
     "link": "https://www.youtube-nocookie.com/embed/3w5UAWhIjgQ",
     "thumbnail": "https://i3.ytimg.com/vi/3w5UAWhIjgQ/maxresdefault.jpg",
-    "tags": ["language", "programming"],
+    "tags": ["language", "programming","python"],
     "likes": 0,
     "unlikes": 0
   },
@@ -205,7 +205,7 @@
     "views": "10k",
     "link": "https://www.youtube-nocookie.com/embed/9ueMumuFv6g",
     "thumbnail": "https://i3.ytimg.com/vi/9ueMumuFv6g/maxresdefault.jpg",
-    "tags": ["python"],
+    "tags": ["python","programming"],
     "likes": 0,
     "unlikes": 0
   },
