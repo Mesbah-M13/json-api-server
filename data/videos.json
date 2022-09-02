@@ -115,7 +115,7 @@
     "views": "9.2K",
     "link": "https://www.youtube.com/embed/6St8X5LNcmg",
     "thumbnail": "https://i.ytimg.com/vi/1tnj3UCkuxU/maxresdefault.jpg",
-    "tags": ["tailwind", "css", "ui"],
+    "tags": ["python", "CS50"],
     "likes": 0,
     "unlikes": 0
   },
@@ -130,7 +130,7 @@
     "views": "2500k ",
     "link": "https://www.youtube.com/embed/8aGhZQkoFbQ&t=982s",
     "thumbnail": "https://i.ytimg.com/vi/8aGhZQkoFbQ/maxresdefault.jpg",
-    "tags": ["tailwind", "css", "ui"],
+    "tags": ["javascript", "json"],
     "likes": 0,
     "unlikes": 0
   },
@@ -206,6 +206,21 @@
     "link": "https://www.youtube-nocookie.com/embed/9ueMumuFv6g",
     "thumbnail": "https://i3.ytimg.com/vi/9ueMumuFv6g/maxresdefault.jpg",
     "tags": ["python"],
+    "likes": 0,
+    "unlikes": 0
+  },
+  {
+    "id": 15,
+    "title": "Hello, CS50x Bangladesh",
+    "description": "This is CS50, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming.",
+    "author": "CS50",
+    "avatar": "hhttps://yt3.ggpht.com/ytc/AMLnZu_8E2fVaNH2D20xn32ph9axohUCgWaLpXO_tXJ14g=s48-c-k-c0x00ffffff-no-rj",
+    "date": "Aug 18, 2022",
+    "duration": "1:02",
+    "views": "1.7K",
+    "link": "https://www.youtube.com/watch?v=1j2nukvwh40&list=PLhQjrBD2T382D9VYtbmzbppcRjrQmdWbn&index=5",
+    "thumbnail": "https://i3.ytimg.com/vi/1j2nukvwh40/maxresdefault.jpg",
+    "tags": ["python", "CS50"],
     "likes": 0,
     "unlikes": 0
   }
