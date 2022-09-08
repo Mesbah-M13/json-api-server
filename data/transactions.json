@@ -30,105 +30,116 @@
         "id": 5
       },
       {
-        "name": "upori income",
+        "name": "Side income",
         "type": "income",
         "amount": 20000,
         "id": 6
+      },  {
+        "name": "mango",
+        "type": "expense",
+        "amount": 5000,
+        "id": 7
+      },
+      {
+        "name": "House rent",
+        "type": "expense",
+        "amount": 31500,
+        "id": 8
+      },
+      {
+        "name": "Side income",
+        "type": "income",
+        "amount": 20000,
+        "id": 9
       },
       {
         "name": "upori income",
         "type": "income",
         "amount": 20000,
-        "id": 6
+        "id": 10
+      },
+      {
+        "name": "Buy Book",
+        "type": "expense",
+        "amount": 20000,
+        "id": 11
       },
       {
         "name": "upori income",
         "type": "income",
         "amount": 20000,
-        "id": 6
+        "id": 12
+      },
+      {
+        "name": "Monthly Bazar",
+        "type": "expense",
+        "amount": 20000,
+        "id": 13
       },
       {
         "name": "upori income",
         "type": "income",
         "amount": 20000,
-        "id": 6
+        "id": 14
       },
       {
         "name": "upori income",
         "type": "income",
         "amount": 20000,
-        "id": 6
+        "id": 14
       },
       {
         "name": "upori income",
         "type": "income",
         "amount": 20000,
-        "id": 6
+        "id": 16
       },
       {
         "name": "upori income",
         "type": "income",
         "amount": 20000,
-        "id": 6
+        "id": 17
       },
       {
         "name": "upori income",
         "type": "income",
         "amount": 20000,
-        "id": 6
+        "id": 18
       },
       {
         "name": "upori income",
         "type": "income",
         "amount": 20000,
-        "id": 6
+        "id": 19
       },
       {
         "name": "upori income",
         "type": "income",
         "amount": 20000,
-        "id": 6
+        "id": 20
       },
       {
         "name": "upori income",
         "type": "income",
         "amount": 20000,
-        "id": 6
+        "id": 21
       },
       {
         "name": "upori income",
         "type": "income",
         "amount": 20000,
-        "id": 6
+        "id": 22
       },
       {
         "name": "upori income",
         "type": "income",
         "amount": 20000,
-        "id": 6
+        "id": 23
       },
       {
-        "name": "upori income",
+        "name": "Side income",
         "type": "income",
         "amount": 20000,
-        "id": 6
-      },
-      {
-        "name": "upori income",
-        "type": "income",
-        "amount": 20000,
-        "id": 6
-      },
-      {
-        "name": "upori income",
-        "type": "income",
-        "amount": 20000,
-        "id": 6
-      },
-      {
-        "name": "upori income",
-        "type": "income",
-        "amount": 20000,
-        "id": 6
+        "id": 24
       },
 ]
