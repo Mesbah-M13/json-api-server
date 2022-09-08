@@ -13,7 +13,7 @@
     },
     {
         "id": 3,
-        "name": "Transportation Expenses",
+        "name": "Transportation Bill",
         "type": "expense",
         "amount": 2000
     },
@@ -47,7 +47,7 @@
         "id": 8
       },
       {
-        "name": "Side income",
+        "name": "Other income",
         "type": "income",
         "amount": 20000,
         "id": 9
@@ -59,7 +59,7 @@
         "id": 10
       },
       {
-        "name": "Buy Book",
+        "name": "Buy Book Bill",
         "type": "expense",
         "amount": 20000,
         "id": 11
@@ -95,7 +95,7 @@
         "id": 16
       },
       {
-        "name": "Business income",
+        "name": "Business income Cost",
         "type": "income",
         "amount": 20000,
         "id": 17
@@ -131,7 +131,7 @@
         "id": 22
       },
       {
-        "name": "Monthly Meal ",
+        "name": "Monthly Meal Cost ",
         "type": "expense",
         "amount": 20000,
         "id": 23
