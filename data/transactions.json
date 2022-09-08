@@ -83,56 +83,56 @@
         "id": 14
       },
       {
-        "name": "upori income",
-        "type": "income",
-        "amount": 20000,
+        "name": "Electricity Bill",
+        "type": "expense",
+        "amount": 3000,
         "id": 14
       },
       {
-        "name": "upori income",
-        "type": "income",
-        "amount": 20000,
+        "name": "Health Checkup",
+        "type": "expense",
+        "amount": 10000,
         "id": 16
       },
       {
-        "name": "upori income",
+        "name": "Business income",
         "type": "income",
         "amount": 20000,
         "id": 17
       },
       {
-        "name": "upori income",
-        "type": "income",
-        "amount": 20000,
+        "name": " Social Contribution",
+        "type": "expense",
+        "amount": 50000,
         "id": 18
       },
       {
-        "name": "upori income",
-        "type": "income",
-        "amount": 20000,
+        "name": "Repay",
+        "type": "expense",
+        "amount": 100000,
         "id": 19
       },
       {
-        "name": "upori income",
+        "name": "Vegtable Sell",
         "type": "income",
-        "amount": 20000,
+        "amount": 1000,
         "id": 20
       },
       {
-        "name": "upori income",
-        "type": "income",
-        "amount": 20000,
+        "name": "Miscellaneous",
+        "type": "expense",
+        "amount": 200000,
         "id": 21
       },
       {
-        "name": "upori income",
+        "name": "Website Build",
         "type": "income",
-        "amount": 20000,
+        "amount": 8000,
         "id": 22
       },
       {
-        "name": "upori income",
-        "type": "income",
+        "name": "Monthly Meal ",
+        "type": "expense",
         "amount": 20000,
         "id": 23
       },
