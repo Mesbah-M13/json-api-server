@@ -11,4 +11,10 @@
         "type": "expense",
         "amount": 200000
     }
+    {
+        "id": 3,
+        "name": "Transportation Expenses",
+        "type": "expense",
+        "amount": 200000
+    }
 ]
