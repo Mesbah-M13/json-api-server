@@ -102,7 +102,7 @@
     "id": 18
   },
   {
-    "name": "Repay",
+    "name": "Repaying Cost",
     "type": "expense",
     "amount": 100000,
     "id": 19
