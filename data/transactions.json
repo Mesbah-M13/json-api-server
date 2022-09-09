@@ -1,145 +1,140 @@
 [
-    {
-        "id": 1,
-        "name": "Salary from Google",
-        "type": "income",
-        "amount": 1000000
-    },
-    {
-        "id": 2,
-        "name": "Family Expenses",
-        "type": "expense",
-        "amount": 200000
-    },
-    {
-        "id": 3,
-        "name": "Transportation Bill",
-        "type": "expense",
-        "amount": 2000
-    },
-    {
-        "name": "Pendrive",
-        "amount": "500",
-        "type": "expense",
-        "id": 4
-      },
-      {
-        "name": "Salary",
-        "type": "income",
-        "amount": 20000,
-        "id": 5
-      },
-      {
-        "name": "Side income",
-        "type": "income",
-        "amount": 20000,
-        "id": 6
-      },  {
-        "name": "mango",
-        "type": "expense",
-        "amount": 5000,
-        "id": 7
-      },
-      {
-        "name": "House rent",
-        "type": "expense",
-        "amount": 31500,
-        "id": 8
-      },
-      {
-        "name": "Other income",
-        "type": "income",
-        "amount": 20000,
-        "id": 9
-      },
-      {
-        "name": "upori income",
-        "type": "income",
-        "amount": 20000,
-        "id": 10
-      },
-      {
-        "name": "Buy Book Bill",
-        "type": "expense",
-        "amount": 20000,
-        "id": 11
-      },
-      {
-        "name": "upori income",
-        "type": "income",
-        "amount": 20000,
-        "id": 12
-      },
-      {
-        "name": "Monthly Bazar",
-        "type": "expense",
-        "amount": 20000,
-        "id": 13
-      },
-      {
-        "name": "upori income",
-        "type": "income",
-        "amount": 20000,
-        "id": 14
-      },
-      {
-        "name": "Electricity Bill",
-        "type": "expense",
-        "amount": 3000,
-        "id": 14
-      },
-      {
-        "name": "Health Checkup",
-        "type": "expense",
-        "amount": 10000,
-        "id": 16
-      },
-      {
-        "name": "Business income Cost",
-        "type": "income",
-        "amount": 20000,
-        "id": 17
-      },
-      {
-        "name": " Social Contribution",
-        "type": "expense",
-        "amount": 50000,
-        "id": 18
-      },
-      {
-        "name": "Repay",
-        "type": "expense",
-        "amount": 100000,
-        "id": 19
-      },
-      {
-        "name": "Vegtable Sell",
-        "type": "income",
-        "amount": 1000,
-        "id": 20
-      },
-      {
-        "name": "Miscellaneous",
-        "type": "expense",
-        "amount": 200000,
-        "id": 21
-      },
-      {
-        "name": "Website Build",
-        "type": "income",
-        "amount": 8000,
-        "id": 22
-      },
-      {
-        "name": "Monthly Meal Cost ",
-        "type": "expense",
-        "amount": 20000,
-        "id": 23
-      },
-      {
-        "name": "Side income",
-        "type": "income",
-        "amount": 20000,
-        "id": 24
-      }
+  {
+    "id": 1,
+    "name": "Salary from Google",
+    "type": "income",
+    "amount": 1000000
+  },
+  {
+    "id": 2,
+    "name": "Family Expenses",
+    "type": "expense",
+    "amount": 200000
+  },
+  {
+    "id": 3,
+    "name": "Transportation Bill",
+    "type": "expense",
+    "amount": 2000
+  },
+  {
+    "name": "Buy Pendrive",
+    "amount": "500",
+    "type": "expense",
+    "id": 4
+  },
+  {
+    "name": "Salary",
+    "type": "income",
+    "amount": 20000,
+    "id": 5
+  },
+  {
+    "name": "Side income",
+    "type": "income",
+    "amount": 20000,
+    "id": 6
+  },
+  {
+    "name": "mango",
+    "type": "expense",
+    "amount": 5000,
+    "id": 7
+  },
+  {
+    "name": "House rent",
+    "type": "expense",
+    "amount": 31500,
+    "id": 8
+  },
+  {
+    "name": "Other income",
+    "type": "income",
+    "amount": 20000,
+    "id": 9
+  },
+  {
+    "name": "Buy Book Bill",
+    "type": "expense",
+    "amount": 20000,
+    "id": 11
+  },
+  {
+    "name": "upori income",
+    "type": "income",
+    "amount": 20000,
+    "id": 12
+  },
+  {
+    "name": "Monthly Bazar",
+    "type": "expense",
+    "amount": 20000,
+    "id": 13
+  },
+  {
+    "name": "Bonus ",
+    "amount": 20000,
+    "type": "income",
+    "id": 14
+  },
+  {
+    "name": "Electricity Bill",
+    "type": "expense",
+    "amount": 3000,
+    "id": 14
+  },
+  {
+    "name": "Health Checkup",
+    "type": "expense",
+    "amount": 10000,
+    "id": 16
+  },
+  {
+    "name": "Business income Cost",
+    "type": "income",
+    "amount": 20000,
+    "id": 17
+  },
+  {
+    "name": " Social Contribution",
+    "type": "expense",
+    "amount": 50000,
+    "id": 18
+  },
+  {
+    "name": "Repay",
+    "type": "expense",
+    "amount": 100000,
+    "id": 19
+  },
+  {
+    "name": "Vegtable Sell",
+    "type": "income",
+    "amount": 1000,
+    "id": 20
+  },
+  {
+    "name": "Miscellaneous",
+    "type": "expense",
+    "amount": 200000,
+    "id": 21
+  },
+  {
+    "name": "Website Build",
+    "type": "income",
+    "amount": 8000,
+    "id": 22
+  },
+  {
+    "name": "Monthly Meal Cost ",
+    "type": "expense",
+    "amount": 20000,
+    "id": 23
+  },
+  {
+    "name": "Side income",
+    "type": "income",
+    "amount": 20000,
+    "id": 24
+  }
 ]
