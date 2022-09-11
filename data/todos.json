@@ -28,5 +28,11 @@
       "completed": false,
       "id": 5,
       "color": "red"
+  },
+  {
+      "text": "Learn Tailwind",
+      "completed": false,
+      "id": 6,
+      "color": "red"
   }
 ]
