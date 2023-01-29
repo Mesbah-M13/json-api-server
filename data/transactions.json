@@ -24,13 +24,13 @@
     "id": 4
   },
   {
-    "name": "Salary",
+    "name": "Restaurant",
     "type": "income",
     "amount": 20000,
     "id": 5
   },
   {
-    "name": "Side income",
+    "name": "From Invesment",
     "type": "income",
     "amount": 20000,
     "id": 6
@@ -46,11 +46,5 @@
     "type": "expense",
     "amount": 31500,
     "id": 8
-  },
-  {
-    "name": "Other income",
-    "type": "income",
-    "amount": 20000,
-    "id": 9
   }
 ]
