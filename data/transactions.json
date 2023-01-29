@@ -87,18 +87,18 @@
     "name": "Health Checkup",
     "type": "expense",
     "amount": 10000,
-    "id": 16
+    "id": 15
   }
   {
     "name": "Monthly Meal Cost ",
     "type": "expense",
     "amount": 20000,
-    "id": 23
+    "id": 16
   },
   {
     "name": "PC Build ",
     "type": "expense",
     "amount": 100000,
-    "id": 24
+    "id": 17
   }
 ]
