@@ -88,43 +88,7 @@
     "type": "expense",
     "amount": 10000,
     "id": 16
-  },
-  {
-    "name": "Business income Cost",
-    "type": "income",
-    "amount": 20000,
-    "id": 17
-  },
-  {
-    "name": " Social Contribution",
-    "type": "expense",
-    "amount": 50000,
-    "id": 18
-  },
-  {
-    "name": "Repaying Cost",
-    "type": "expense",
-    "amount": 100000,
-    "id": 19
-  },
-  {
-    "name": "Vegtable Sell",
-    "type": "income",
-    "amount": 1000,
-    "id": 20
-  },
-  {
-    "name": "Miscellaneous",
-    "type": "expense",
-    "amount": 200000,
-    "id": 21
-  },
-  {
-    "name": "Website Build",
-    "type": "income",
-    "amount": 80000,
-    "id": 22
-  },
+  }
   {
     "name": "Monthly Meal Cost ",
     "type": "expense",
