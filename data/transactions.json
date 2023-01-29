@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Salary from Google",
+    "name": "Salary",
     "type": "income",
     "amount": 1000000
   },
@@ -122,7 +122,7 @@
   {
     "name": "Website Build",
     "type": "income",
-    "amount": 8000,
+    "amount": 80000,
     "id": 22
   },
   {
